@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Простой и удобный скрипт для быстрой проверки работоспособности списка прокси-серверов. Он последовательно подключается через каждый прокси и выводит информацию о его геолокации (стране) и интернет-провайдере (ISP).
+Недорогие [Резидентные прокси](https://floppydata.com/) 
 
 ## ✨ Возможности (Features)
 
