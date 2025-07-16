@@ -1,0 +1,17 @@
+# .gitignore
+
+# Папки виртуального окружения
+venv/
+/venv
+.venv/
+/.venv
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы IDE
+.idea/
+.vscode/
